@@ -15,7 +15,7 @@
 1. 修改tsconfig.json
     ```json
         {
-            "jsx":"preserve",  //将preserve改成 react
+            "jsx":"react",  //将preserve改成 react
         }
     ```
 1. 创建入口文件 index.html

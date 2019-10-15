@@ -1,0 +1,9 @@
+.MuiTableCell-root{
+    border-right: 1px solid rgba(224, 224, 224, 1);
+}
+th.MuiTableCell-root.makeStyles-title-46.MuiTableCell-alignCenter.MuiTableCell-head{
+    border:1px solid rgba(224, 224, 224, 1);
+}
+td.MuiTableCell-root.MuiTableCell-body{
+    border:1px solid rgba(224, 224, 224, 1);
+}
